@@ -2,6 +2,8 @@
 title: Accessibility
 ---
 
+## Accessibility
+
 Djanogly Leisure Centre is a recently built centre that has very good physical access designed in. There's flat access throughout, and accessible toilets and changing cubicles available without the need for a key. There is generally a good amount of space to manoeuvre wheelchairs or walking aids, but sometimes people move the chairs in reception making it tricky, the reception staff are very helpful and will happily clear a path for you.
 
 You are asked to remove or cover outdoor footwear in the changing room, but if that is difficult or not possible for you it is not insisted upon.

@@ -2,6 +2,8 @@
 title: Full Details
 ---
 
+## Details
+
 We attend two [Swim for Fitness sessions](http://gossweb.nottinghamcity.gov.uk/toptask/leisureactivities/fulldetails.asp?ActivityID=6141) a month at [Djanogly Community Leisure Centre](http://www.nottinghamcity.gov.uk/leisure-centres/find-a-leisure-centre/djanogly-community-leisure-centre/). Some months there will be more sessions added if there is demand / requests for them, or if a session needs to be cancelled due to national holidays or clashing with other Trans hub events.
 
 The leisure centre is on Gregory Boulevard ([map](https://goo.gl/maps/8Ng2WuYCEcw)), it is a short walk from The Forest Tram stop ([map](https://goo.gl/maps/66aXgiwNBwF2)). There is a 'virtual tours' of part of the entrance, part of the changing room, the pool and the health suite [available here](http://gossweb.nottinghamcity.gov.uk/virtualtours/djanoglyvtour/start.html) (requires Flash so may not work on all devices).
@@ -16,7 +18,7 @@ When you are not swimming it is fine to wait at the ends of the lanes and social
 
 ## When is it?
 
-As some regular attendees have expressed privacy concerns dates and times of the sessions are posted on the Nottingham Trans Hub facebook group, or emailed to people who do not have access to facebook. Please see facebook or [contact me](/contact) for dates and times of our next session.
+As some regular attendees have expressed privacy concerns dates and times of the sessions are posted on the [Nottingham Trans Hub facebook group](https://www.facebook.com/nottstranshub/), or emailed to people who do not have access to facebook. Please see facebook or [contact me](/contact) for dates and times of our next session.
 
 We meet in the reception area of the leisure centre 15 minutes before the session is due to start, and normally head into the changing room 5 minutes before to allow enough time to get changed before the session starts.
 
@@ -24,7 +26,7 @@ After the session we will typically be in the reception area until 15 minutes af
 
 ## How much does it cost?
 
-It costs £5.30 full price, £4.30 for Active Nottingham members (it's free for Nottingham residents and you can join before you swim) and £2.15 for concessions. 
+It costs £5.30 full price, £4.30 for Active Nottingham members and £2.15 for concessions. It’s free for Nottingham residents to join Active Nottingham, you can do this at the reception desk when you turn up.
 
 You will also need a pound coin or trolley token for the lockers in the changing room, new pound coins do work.
 
